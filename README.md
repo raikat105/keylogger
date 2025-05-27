@@ -54,4 +54,3 @@ keylogger/
 - `keylogger.py`: Main script to initiate the keylogger.
 - `requirements.txt`: Lists all Python dependencies.
 - `README.md`: Project documentation.
-- 
